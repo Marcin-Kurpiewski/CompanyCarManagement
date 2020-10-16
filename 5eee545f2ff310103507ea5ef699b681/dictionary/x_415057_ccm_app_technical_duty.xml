@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Technical Duty" max_length="40" name="x_415057_ccm_app_technical_duty" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Car" max_length="32" name="car" reference="x_415057_ccm_app_cars" type="reference"/>
+        <element label="Return Date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element label="Planned Date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Technican" max_length="32" name="technican" reference="sys_user" type="reference"/>
+    </element>
+</database>
