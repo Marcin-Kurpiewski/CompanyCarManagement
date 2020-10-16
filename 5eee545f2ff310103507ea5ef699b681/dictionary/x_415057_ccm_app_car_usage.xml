@@ -1,3 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Car Usage" max_length="40" name="x_415057_ccm_app_car_usage" type="collection"/>
+    <element extends="task" label="Car Usage" max_length="40" name="x_415057_ccm_app_car_usage" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Car" mandatory="true" max_length="32" name="car" reference="x_415057_ccm_app_cars" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date" max_length="40" name="end_usage" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Can Be lengthened" max_length="40" name="lengthened" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date" max_length="40" name="start_usage" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+    </element>
 </database>
