@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="cars" max_length="40" name="x_415057_ccm_app_cars" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Color" max_length="40" name="color" type="choice">
+            <choice/>
+        </element>
+        <element label="Description" max_length="65536" name="description" type="html"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Fuel" max_length="40" name="fuel" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Mark" max_length="40" name="mark" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model" max_length="40" name="model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Year" max_length="40" name="year" type="glide_date"/>
+    </element>
+</database>
