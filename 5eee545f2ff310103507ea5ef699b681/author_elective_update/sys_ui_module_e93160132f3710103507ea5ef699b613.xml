@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Car Usages</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_415057_ccm_app.car_usage_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-16 21:50:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e93160132f3710103507ea5ef699b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Car Usages</sys_name>
+        <sys_package display_value="CCM || App" source="x_415057_ccm_app">5eee545f2ff310103507ea5ef699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</sys_scope>
+        <sys_update_name>sys_ui_module_e93160132f3710103507ea5ef699b613</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-16 21:50:25</sys_updated_on>
+        <table>x_415057_ccm_app_car_usage</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</application>
+        <file_path/>
+        <instance_id>e0774536db69449091232f17d49619a5</instance_id>
+        <instance_name>dev95960</instance_name>
+        <name>sys_ui_module_e93160132f3710103507ea5ef699b613</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>Car Usages</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_415057_ccm_app.car_usage_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-16 21:50:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e93160132f3710103507ea5ef699b613</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Car Usages</sys_name><sys_package display_value="CCM || App" source="x_415057_ccm_app">5eee545f2ff310103507ea5ef699b681</sys_package><sys_policy/><sys_scope display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</sys_scope><sys_update_name>sys_ui_module_e93160132f3710103507ea5ef699b613</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-16 21:50:25</sys_updated_on><table>x_415057_ccm_app_car_usage</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1280411306</payload_hash>
+        <record_name>Car Usages</record_name>
+        <reverted_from/>
+        <source>549060df2ff310103507ea5ef699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-17 08:15:25</sys_created_on>
+        <sys_id>f4403edf2f7b10103507ea5ef699b642</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17535a0b2e10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-17 08:15:25</sys_updated_on>
+        <type>Module</type>
+        <update_guid>74403edfd17b10100340a9b665a91142</update_guid>
+        <update_guid_history>74403edfd17b10100340a9b665a91142:0,2b8f60db25371010f69d80c6af8c61ff:0,871f289bcd371010740bfaa27d7c37ee:1114644874,2d1fe49b19371010295894f11c955187:0,ad316013aa37101093f940500d842915:649732536,b5e2e453e7371010633d45c08486bf0c:1114644874,f4e2a453973710109d8c7484cad3123e:0,ad316013aa37101093f940500d842915:649732536</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-17 08:15:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>a081dc6f6311423283e9925498134c31</sys_id>
+        <sys_metadata>e93160132f3710103507ea5ef699b613</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Car Usages</sys_name>
+        <sys_package display_value="CCM || App" source="x_415057_ccm_app">5eee545f2ff310103507ea5ef699b681</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</sys_scope>
+        <sys_scope_delete display_value="">4add6a55cdda4b70a5c42dc58fc63100</sys_scope_delete>
+        <sys_update_name>sys_ui_module_e93160132f3710103507ea5ef699b613</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_e93160132f3710103507ea5ef699b613">f4403edf2f7b10103507ea5ef699b642</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-17 08:15:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
