@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="CarMark" max_length="40" name="x_415057_ccm_app_carmark" type="collection">
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+    </element>
+</database>

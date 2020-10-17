@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_415057_ccm_app_carmodel</description>
+        <name>x_415057_ccm_app_carmodel</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-17 07:57:13</sys_created_on>
+        <sys_id>861c6e1f2f7b10103507ea5ef699b661</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_415057_ccm_app_carmodel</sys_name>
+        <sys_package display_value="CCM || App" source="x_415057_ccm_app">5eee545f2ff310103507ea5ef699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</sys_scope>
+        <sys_update_name>sys_security_acl_861c6e1f2f7b10103507ea5ef699b661</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-17 07:57:13</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
