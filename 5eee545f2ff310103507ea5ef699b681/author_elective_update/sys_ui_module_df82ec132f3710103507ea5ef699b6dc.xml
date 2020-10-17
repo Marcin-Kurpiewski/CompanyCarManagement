@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Technical Duties</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_415057_ccm_app.technical_duty_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-16 21:56:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df82ec132f3710103507ea5ef699b6dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Duties</sys_name>
+        <sys_package display_value="CCM || App" source="x_415057_ccm_app">5eee545f2ff310103507ea5ef699b681</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</sys_scope>
+        <sys_update_name>sys_ui_module_df82ec132f3710103507ea5ef699b6dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-16 21:56:16</sys_updated_on>
+        <table>x_415057_ccm_app_technical_duty</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</application>
+        <file_path/>
+        <instance_id>e0774536db69449091232f17d49619a5</instance_id>
+        <instance_name>dev95960</instance_name>
+        <name>sys_ui_module_df82ec132f3710103507ea5ef699b6dc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application/><filter/><name>Technical Duties</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_415057_ccm_app.technical_duty_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-16 21:56:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>df82ec132f3710103507ea5ef699b6dc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Technical Duties</sys_name><sys_package display_value="CCM || App" source="x_415057_ccm_app">5eee545f2ff310103507ea5ef699b681</sys_package><sys_policy/><sys_scope display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</sys_scope><sys_update_name>sys_ui_module_df82ec132f3710103507ea5ef699b6dc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-16 21:56:16</sys_updated_on><table>x_415057_ccm_app_technical_duty</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1915060066</payload_hash>
+        <record_name>Technical Duties</record_name>
+        <reverted_from/>
+        <source>549060df2ff310103507ea5ef699b653</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-17 08:15:32</sys_created_on>
+        <sys_id>6e40fadf2f7b10103507ea5ef699b6a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17535a0ce260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-17 08:15:32</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ea40fadf5e7b1010d9a37b0c5bda1da6</update_guid>
+        <update_guid_history>ea40fadf5e7b1010d9a37b0c5bda1da6:0,6b8f60db293710103129f1f2d021e6fc:0,f21f289b513710107b71dbafb12c34e2:1415785286,7d1fe49b953710103e41d5bda8a208c6:0,5382ec13d3371010ba77bd2a759ab0de:1349228313,79e2e4539b37101068863192c29c8803:1415785286,c5e2a453723710106895721d9e5da34c:0,5382ec13d3371010ba77bd2a759ab0de:1349228313</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-17 08:15:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1146972a0d3a403a826c11115b90b424</sys_id>
+        <sys_metadata>df82ec132f3710103507ea5ef699b6dc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Technical Duties</sys_name>
+        <sys_package display_value="CCM || App" source="x_415057_ccm_app">5eee545f2ff310103507ea5ef699b681</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CCM || App">5eee545f2ff310103507ea5ef699b681</sys_scope>
+        <sys_scope_delete display_value="">4add6a55cdda4b70a5c42dc58fc63100</sys_scope_delete>
+        <sys_update_name>sys_ui_module_df82ec132f3710103507ea5ef699b6dc</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_df82ec132f3710103507ea5ef699b6dc">6e40fadf2f7b10103507ea5ef699b6a6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-17 08:15:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
